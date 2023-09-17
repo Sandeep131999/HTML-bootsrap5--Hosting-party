@@ -1,0 +1,10 @@
+#labelBadge{
+    height: 1.5rem;
+}
+
+
+.badge-success{
+    height:1.6rem;
+    justify-content: center;
+    line-height: 2;
+}
